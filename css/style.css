@@ -1,0 +1,33 @@
+body {
+  width: 550px;
+  margin: 0;
+  padding: 10px;
+  background-color: black
+}
+img{
+    margin-left: 20;
+    margin-top: 10;
+    padding: 20;
+    border-radius:60px;
+    outline: 7px solid #fff;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    padding: 10px;
+    color: white;
+    text-align: center
+}
+p{
+    
+    color: white;
+}
+
